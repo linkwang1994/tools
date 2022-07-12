@@ -9,7 +9,7 @@
 ```shell
      . ./set_sde.bash
 ```
-3) PTP program in p4_16 has multiple profiles :
+3) PTP program in p4_16 :
 
      
     
