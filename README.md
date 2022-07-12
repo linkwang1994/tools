@@ -12,7 +12,7 @@
 3) PTP program in p4_16 has multiple profiles :
 
      
-     a) PTP without logical switches. This is basically the program that can be included in any p4 programs
+    
      ```shell
           ./p4_build.sh $PTP_PATH/p4_16/p4_src/ptp_switch.p4
      ``` 
